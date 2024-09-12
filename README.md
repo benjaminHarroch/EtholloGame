@@ -32,4 +32,4 @@ This project is a console-based implementation of the classic board game Reversi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/reversi-game.git
+   git clone https://github.com/benjaminHarroch/reversi-game.git
